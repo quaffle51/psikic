@@ -9,4 +9,4 @@ The motivation for producing this utility was the paper:
 > which appeared in
 > Advanced Electromagnetics, Vol. 8, No. 4, September 2019.
 
-![](/images/'planar spiral inductor.png'?raw=true)
+![](/images/planar_spiral_inductor.png?raw=true)
