@@ -53,7 +53,8 @@ which was generated using the following parameters: Ai=10.8, s=0.7, g=0,7 and N=
 It is this file that can be imported into the KiCad EDA footprint editor and saved to a library.
 
 ### Example of output generated to stdout
- `python psikic.py -N  2 -Ai 47.2 -s 0.7 -g 0.7 -t 0.035
+ `python psikic.py -N  2 -Ai 47.2 -s 0.7 -g 0.7 -t 0.035`is run
 
+produced the following output
 ![](output.png)
 
