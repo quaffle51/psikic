@@ -2,8 +2,6 @@
 
 ## psikic.py - PCB Planar Inductor utility
 
-![](psi.png?raw=true)
-
 Sometimes there is a need to generate an inductor directly onto a PCB. This utility helps you generate a square planar inductor for importing into the Footprint Editor of [KiCad EDA](https://kicad-pcb.org). From the geometrical parameters provided to the utility the inductance is also calculated together with a determination of the inductance using [Fasthenry](https://www.fastfieldsolvers.com/fasthenry2.htm) for comparison. 
 
 The motivation for creating this utility came from the paper:
@@ -14,7 +12,7 @@ The motivation for creating this utility came from the paper:
 
 Shown below is an image of a footprint created by the utility and imported into [KiCad EDA](https://kicad-pcb.org).
 
-![Footprint](https://github.com/quaffle51/psikic/blob/master/images/planar_spiral_inductor.png)
+![](psi.png)
 
 So, by selecting geometrical parameters for:
 
